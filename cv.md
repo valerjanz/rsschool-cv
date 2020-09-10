@@ -1,5 +1,5 @@
 1. Valerii Zakharenko
-2. Telegram: _@valerjanz_ ; Mail: _markprojectv@gmail.com_ ; 
+2. Telegram: _@valerjanz_ ; Mail: _markprojectv@gmail.com_ ; Discord: _oldMarkuz#1699_ ;
 3. __First goal__ is a finish _RS.School - FrontEnd/JS 2020Q3_ courses. __Second goal__ is become the _middle developer_ in 1 years. __Third Goal__ is become _senior developer_ in 3 years.
  _PC_, _program_, _design_, this was always in my life, I start learning _HTML_ and _CSS_ when I was in school, but due to my family, I go to another specialty. 
  That's how I become a seaman, but stop learning something new in my soul mate work. But after this many years I still love all this, that’s why I sign-in __FroentEnd/JS__ 
