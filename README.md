@@ -1,2 +1,2 @@
 https://valerjanz.github.io/rsschool-cv/cv  
-https://valerjanz.github.io/rsschool-cv/index
+https://valerjanz.github.io/rsschool-cv/
